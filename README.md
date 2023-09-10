@@ -18,7 +18,7 @@ To use the Revenant Card on your Discord profile, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone <repository-url>
+   git clone https://github.com/rakeshsarkar9711/DISCORD-PROFILW.git
    ```
 
 2. Open the `index.html` file in a web browser to view the Revenant Card.
