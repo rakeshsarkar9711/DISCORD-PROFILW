@@ -1,7 +1,5 @@
 # Revenant Card - Dynamic Discord Profile Card
 
-![Revenant Card](https://eliasdiscord.000webhostapp.com/)
-
 **Revenant Card** is a dynamic user card created for Discord profiles. This repository contains the HTML and CSS code for building this card. It displays user information, including their profile picture, badges, status, and social media connections. Additionally, it fetches and displays the user's Discord status in real-time using the Lanyard API.
 
 ## Table of Contents
